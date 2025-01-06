@@ -1,0 +1,20 @@
+Scenario: New Data Science Student
+
+Problem:
+- New to machine learning
+- Unsure which libraries to install
+- Limited understanding of library purposes
+- Limited disk space
+
+Solution with PyLibPro:
+1. Run PyLibPro
+2. Browse categories and descriptions
+3. See size requirements upfront
+4. Install only needed libraries
+5. Learn about each library's purpose
+
+Result:
+- Organized development environment
+- Better understanding of tools
+- Efficient disk space usage
+- Time saved researching libraries
