@@ -1,0 +1,11 @@
+PyLibPro/
+│
+├── lib-collect.py          # Main program
+├── setup.py               # Requirements installer
+├── README.md             # Documentation
+├── LICENSE               # MIT License
+│
+├── logs/                 # Installation logs
+│   └── .gitkeep
+│
+└── .gitignore           # Git ignore file
